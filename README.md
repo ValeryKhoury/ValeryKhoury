@@ -14,10 +14,10 @@ decisions that businesses can act on.
   lean-based workflow improvements
 
 ## Tools & skills
-Python · R · Java · MATLAB · Power BI · Excel · Primavera
+Python · R · Java · MATLAB · Power BI · Excel · Primavera · Tableau · MYSQL
 
 ## Currently studying
-Machine Learning · Deep Learning · Data Science
+Machine Learning · Deep Learning · Data Science · Artificial Intelligence 
 
 ## Experience highlights
 - Business Analyst Intern at MSE, a Kearney Company
